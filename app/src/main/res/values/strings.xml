@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FragmentText</string>
+    <string name="fragment_one">片段1</string>
+    <string name="fragment_tow">片段2</string>
+    <string name="fragment_three">片段3</string>
+</resources>
